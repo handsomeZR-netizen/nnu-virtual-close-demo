@@ -1,0 +1,7 @@
+{
+  "name": "墨韵智汇 - 镜花水月",
+  "description": "南通蓝印花布AI虚拟试衣间。以虚映实，通过AI技术将传统纹样与现代服饰结合，提供沉浸式试穿体验。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
